@@ -77,7 +77,7 @@ Esse é o primeiro projeto apresentado na formação ReactJS do curso da Rockets
 
   <img src="./src/assets/img-readme/css-3.png">
 
-## Tecnologias
+## Curiosidade
 
 Estou bastante entusiasmando em estudar com o professor Diego Fernandes, sua nível de conhecimento técnico é muito incrível, e ensina muito bem!
 
